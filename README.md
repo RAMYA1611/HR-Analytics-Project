@@ -1,6 +1,6 @@
 
 ## HR Analytics
-## Data Analysis and visualization using Power BI
+## Data Analysis and visualization using Power BI  [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiODBjNTk2N2MtZTE1MS00OTEzLTllNDctMmEzZjY3YzQ4Y2YxIiwidCI6IjNiZTBhZmI3LTc0MmYtNDk4ZC1hZDY0LWY1NjFkN2IyZWQwNiJ9)
 ## Tasks
 1)Create a template
 
